@@ -9,9 +9,6 @@ I had to move to Istanbul in 2022 and learned about IT industry, and realized th
 
 - 📫 How to reach me: qa.danilaaldanov@gmail.com
 
-### My cv:
-Link to my CV - file:///C:/Users/PADC/Downloads/Danila's%20Resume.pdf
-
 ### Languages and tools:
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![GIT](  https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
